@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+
+# Data & Exchange
+ccxt
+
+# Machine Learning
+torch
+scikit-learn
+
+# Reinforcement Learning
+stable-baselines3
+
+# Optimization
+optuna
+
+# Visualization
+matplotlib
+plotly
+
+# Config & Utilities
+pyyaml
+
+# Optional (faster dataframes)
+polars
+
+# Dev Tools (optional but recommended)
+black
+pytest
